@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://zevlabs.com/sitemap.xml
+Sitemap: https://zevlabs.com/sitemap.xml
